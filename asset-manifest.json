@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/animelist-viewer/static/css/main.9bb15c04.chunk.css",
+    "main.js": "/animelist-viewer/static/js/main.30fa5dbf.chunk.js",
+    "main.js.map": "/animelist-viewer/static/js/main.30fa5dbf.chunk.js.map",
+    "runtime-main.js": "/animelist-viewer/static/js/runtime-main.b6407e14.js",
+    "runtime-main.js.map": "/animelist-viewer/static/js/runtime-main.b6407e14.js.map",
+    "static/js/2.cf7e8f01.chunk.js": "/animelist-viewer/static/js/2.cf7e8f01.chunk.js",
+    "static/js/2.cf7e8f01.chunk.js.map": "/animelist-viewer/static/js/2.cf7e8f01.chunk.js.map",
+    "index.html": "/animelist-viewer/index.html",
+    "static/css/main.9bb15c04.chunk.css.map": "/animelist-viewer/static/css/main.9bb15c04.chunk.css.map",
+    "static/js/2.cf7e8f01.chunk.js.LICENSE.txt": "/animelist-viewer/static/js/2.cf7e8f01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6407e14.js",
+    "static/js/2.cf7e8f01.chunk.js",
+    "static/css/main.9bb15c04.chunk.css",
+    "static/js/main.30fa5dbf.chunk.js"
+  ]
+}
